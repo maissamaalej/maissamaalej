@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm maissa maalej</h1>
-<h3 align="center">🎓 I’m a first-year engineering student at the Private Higher School of Engineering and Technology (ESPRIT). Ambitious, dedicated, and a strong team player, I’m motivated by a desire to gain hands-on experience and grow my technical and professional skills in the field of engineering and technology.
-
-</h3>
+<h3 align="center">🎓 I am a first-year engineering student at ESPRIT (École Supérieure Privée d'Ingénierie et de Technologies). Ambitious, dedicated, and collaborative, I am motivated by the desire to gain hands-on experience and enhance both my technical and professional skills</h3>
 
 - 📫 How to reach me **maissa.maalej3@gmail.com**
-- - 📫 How to reach me **maissa.maalej@esprit.tn**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **maissa.maalej@esprit.tn**
 <p align="left">
 </p>
 
