@@ -1,11 +1,10 @@
 <h1 align="center">Hi I am Maissa 👋What's Up?</h1>
-<h3 align="center">🎓 I am a first-year engineering student at ESPRIT (École Supérieure Privée d'Ingénierie et de Technologies). Ambitious, dedicated, and collaborative, I am motivated by the desire to gain hands-on experience and enhance both my technical and professional skills</h3>
-- 📫 How to reach me **maissa.maalej3@gmail.com**
-- 📫 How to reach me **maissa.maalej@esprit.tn**
 
+<h3 align="center">🎓 I am a second-year engineering student at ESPRIT (École Supérieure Privée d’Ingénierie et de Technologies), specializing in Architecture IT & Cloud Computing. Ambitious, dedicated, and collaborative, I am motivated by the desire to gain hands-on experience and enhance both my technical and professional skills.</h3>
 ###
+- 📫 How to reach me **maissa.maalej3@gmail.com** /**maissa.maalej@esprit.tn**
 
-<div align="center" Languages and Tools>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" alt="aftereffects logo"  />
@@ -112,14 +111,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
@@ -130,12 +121,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
