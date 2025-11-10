@@ -2,7 +2,7 @@
 
 <h3 align="center">🎓 I am a second-year engineering student at ESPRIT (École Supérieure Privée d’Ingénierie et de Technologies), specializing in Architecture IT & Cloud Computing. Ambitious, dedicated, and collaborative, I am motivated by the desire to gain hands-on experience and enhance both my technical and professional skills.</h3>
 ###
-- 📫 How to reach me **maissa.maalej3@gmail.com** /**maissa.maalej@esprit.tn**
+<h3 align="center"> 📫 How to reach me **maissa.maalej3@gmail.com** /**maissa.maalej@esprit.tn**</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
