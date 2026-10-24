@@ -33,7 +33,7 @@ goal:        🎯 gain hands-on experience & grow as a DevOps / Cloud engineer
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,azure,linux,bash,nginx,apache,grafana,ubuntu,debian&perline=13" alt="devops" />
+<img src="https://skillicons.dev/icons?i=docker,heat,kubernetes,ansible,terraform,aws,azure,linux,bash,nginx,apache,grafana,ubuntu,debian&perline=13" alt="devops" />
 
 ### 🖧 Virtualization & Networking
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
