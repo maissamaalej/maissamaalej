@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=220&section=header&text=Maissa%20Maalej&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineering%20Student&descAlignY=58&descSize=20" width="100%" alt="banner" />
+<img src="./banner.svg" width="100%" alt="banner" />
 
 <div align="center">
 
@@ -7,6 +7,8 @@
   </a>
 
 <br/><br/>
+
+  <img src="./coding-girl.svg" width="560" alt="Maissa coding at night" />
 
 </div>
 
@@ -101,4 +103,4 @@ goal:        🎯 gain hands-on experience & grow as a DevOps / Cloud engineer
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="footer" />
