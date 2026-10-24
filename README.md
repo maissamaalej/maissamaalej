@@ -1,113 +1,106 @@
-<h1 align="center">Hi I am Maissa 👋What's Up?</h1>
-
-<h3 align="center">🎓 I am a second-year engineering student at ESPRIT (École Supérieure Privée d’Ingénierie et de Technologies), specializing in Architecture IT & Cloud Computing. Ambitious, dedicated, and collaborative, I am motivated by the desire to gain hands-on experience and enhance both my technical and professional skills.</h3
-<h3 align="center"> 📫 How to reach me **maissa.maalej3@gmail.com** /**maissa.maalej@esprit.tn**</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=220&section=header&text=Maissa%20Maalej&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineering%20Student&descAlignY=58&descSize=20" width="100%" alt="banner" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" height="60" alt="doctrine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="60" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="60" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="60" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Maissa!;Engineering+student+%40+ESPRIT+%F0%9F%8E%93;I+automate+things+%E2%98%81%EF%B8%8F+%7C+Docker+%7C+K8s+%7C+CI%2FCD;Looking+for+hands-on+experience+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+<br/><br/>
+
+  <img src="./coding-girl.svg" width="560" alt="Maissa coding at night" />
+
 </div>
 
-###
+<br/>
 
->
-👾 Pac-Man eating my contributions
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph.svg" /> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph.svg" /> </picture> </div> <br/>
-###
+## 🌸 About me
+
+```yaml
+name:        Maissa Maalej
+school:      ESPRIT – École Supérieure Privée d'Ingénierie et de Technologies
+year:        Engineering student
+speciality:  Architecture IT & Cloud Computing – DevOps
+traits:      [ambitious, dedicated, collaborative]
+currently:   building my skills through hands-on projects
+goal:        🎯 gain hands-on experience & grow as a DevOps / Cloud engineer
+```
+
+> *"Automate everything you do twice."* ⚙️
+
+<br/>
+
+## 🧰 My toolbox
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,azure,linux,bash,nginx,apache,grafana,ubuntu,debian&perline=11" alt="devops" />
+
+### 💻 Development
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask,php,symfony,nodejs,react,js,c,cpp,dotnet&perline=12" alt="dev" />
+
+### 🌐 Front-end & Databases
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,mysql,oracle,firebase&perline=8" alt="front" />
+
+### 🤖 Data & AI
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas,jupyter,arduino,qt&perline=7" alt="data" />
+
+### 🎨 Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,notion&perline=6" alt="design" />
+
 </div>
 
-###
+<br/>
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maissamaalej&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maissamaalej&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maissamaalej&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+</div>
+
+<br/>
+
+## 🎮 Fun facts
+
+- 🔭 Currently exploring **Kubernetes, CI/CD pipelines & Infrastructure as Code**
+- 🌱 Learning something new every week
+- 🎨 Fan of clean UI too: I use Figma *and* the terminal
+- ⚡ Ask me about **DevOps, cloud architecture or design**
+
+<br/>
+
+## 👾 Pac-Man eating my contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph.svg" />
+  </picture>
+</div>
+
+<br/>
+
+## 📫 Let's connect
+
+<div align="center">
+
+  <a href="mailto:maissa.maalej3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:maissa.maalej@esprit.tn"><img src="https://img.shields.io/badge/ESPRIT-0A66C2?style=for-the-badge&logo=maildotru&logoColor=white" alt="ESPRIT mail" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+<br/><br/>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maissamaalej.maissamaalej&left_color=2c5364&right_color=7f5af0" alt="visitors" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:2c5364,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
