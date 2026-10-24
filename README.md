@@ -35,13 +35,25 @@ goal:        🎯 gain hands-on experience & grow as a DevOps / Cloud engineer
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,azure,linux,bash,nginx,apache,grafana,ubuntu,debian&perline=11" alt="devops" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,azure,linux,bash,nginx,apache,grafana,ubuntu,debian&perline=13" alt="devops" />
+
+### 🖧 Virtualization & Networking
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
 
 ### 💻 Development
 <img src="https://skillicons.dev/icons?i=java,spring,python,flask,php,symfony,nodejs,react,js,c,cpp,dotnet&perline=12" alt="dev" />
 
 ### 🌐 Front-end & Databases
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,mysql,oracle,firebase&perline=8" alt="front" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,mysql,postgres,oracle,firebase&perline=9" alt="front" />
+
+### 🧠 GenAI & Agents
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-2E7D6B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangSmith-F5A623?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7F5AF0?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/AI_Agents-FF7EB6?style=for-the-badge" alt="AI Agents" />
 
 ### 🤖 Data & AI
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas,jupyter,arduino,qt&perline=7" alt="data" />
@@ -69,6 +81,7 @@ goal:        🎯 gain hands-on experience & grow as a DevOps / Cloud engineer
 ## 🎮 Fun facts
 
 - 🔭 Currently exploring **Kubernetes, CI/CD pipelines & Infrastructure as Code**
+- 🧠 Building **RAG pipelines & AI agents** with LangChain, LangGraph and LangSmith
 - 🌱 Learning something new every week
 - 🎨 Fan of clean UI too: I use Figma *and* the terminal
 - ⚡ Ask me about **DevOps, cloud architecture or design**
