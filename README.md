@@ -104,15 +104,6 @@
 >
 👾 Pac-Man eating my contributions
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph.svg" /> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maissamaalej/maissamaalej/output/pacman-contribution-graph.svg" /> </picture> </div> <br/>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <div align="center">
