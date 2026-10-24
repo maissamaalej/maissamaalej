@@ -8,8 +8,6 @@
 
 <br/><br/>
 
-  <img src="./coding-girl.svg" width="560" alt="Maissa coding at night" />
-
 </div>
 
 <br/>
