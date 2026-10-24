@@ -36,15 +36,6 @@ goal:        🎯 gain hands-on experience & grow as a DevOps / Cloud engineer
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,azure,linux,bash,nginx,apache,grafana,ubuntu,debian&perline=13" alt="devops" />
 
-<img src="https://img.shields.io/badge/OpenStack%20Nova-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Nova" />
-<img src="https://img.shields.io/badge/OpenStack%20Neutron-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Neutron" />
-<img src="https://img.shields.io/badge/OpenStack%20Keystone-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Keystone" />
-<img src="https://img.shields.io/badge/OpenStack%20Horizon-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Horizon" />
-<img src="https://img.shields.io/badge/OpenStack%20Swift-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Swift" />
-<img src="https://img.shields.io/badge/OpenStack%20Cinder-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Cinder" />
-<img src="https://img.shields.io/badge/OpenStack%20Heat-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="Heat" />
-<img src="https://img.shields.io/badge/Ceph-Storage%20Platform-EF5C55?style=for-the-badge&logo=ceph&logoColor=white" alt="Ceph" />
-
 
 ### 🖧 Virtualization & Networking
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
